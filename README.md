@@ -6,6 +6,8 @@
 
 ![Nexus 高德地图与导航封面](assets/cover.png)
 
+市场状态：**待上架**。实现与公开文档已完成，当前市场发布校验接口连接失败；没有提供未生效的购买链接。
+
 普通授权版 **¥79.90** · 源码授权版 **¥2499.00**。高德商业服务许可、Key、调用配额和货车权限由使用方独立配置，不包含在插件售价中。
 
 [完整 API 与接入文档](docs/api-and-setup.md) · [Android Key 配置](examples/android/README.md) · [测试范围](docs/verification.md) · [全部 Nexus 插件画廊](https://awak3n1ngone.github.io/nexus-uniapp-plugins/)
